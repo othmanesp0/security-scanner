@@ -1,0 +1,33 @@
+{
+    "summary": "Le scan révèle plusieurs ports ouverts sur le serveur, dont des services sensibles comme FTP, HTTP/HTTPS, et des protocoles potentiellement vulnérables comme RPC et RTSP. L'hôte semble être un serveur hébergé par OVH, avec une exposition modérée aux risques.",
+    "risk_score": 50,
+    "risk_level": "Moyen",
+    "key_findings": [
+        "Ports ouverts incluant FTP (21), HTTP/HTTPS (80/443), RPC (111), et RTSP (554), suggérant des services potentiellement non sécurisés ou obsolètes.",
+        "Présence de ports liés à des services mail sécurisés (IMAPS 993, POP3S 995) et un port non standard (8888) nécessitant une vérification.",
+        "Adresse IPv6 associée non scannée, pouvant masquer d'autres vulnérabilités."
+    ],
+    "threats_detected": [
+        {
+            "title": "FTP non sécurisé",
+            "severity": "High",
+            "description": "Le port 21 (FTP) est ouvert et transmet les données en clair, incluant les identifiants.",
+            "potential_impact": "Interception des credentials et accès non autorisé aux fichiers.",
+            "remediation": "Désactiver FTP ou basculer vers SFTP/SCP (port 22)."
+        },
+        {
+            "title": "RPC (rpcbind) exposé",
+            "severity": "High",
+            "description": "Le port 111 (rpcbind) est souvent exploité pour des attaques comme des exécutions de code à distance.",
+            "potential_impact": "Compromission du système via des vulnérabilités RPC connues.",
+            "remediation": "Restreindre l'accès à rpcbind ou le désactiver si non essentiel."
+        },
+        {
+            "title": "RTSP non sécurisé",
+            "severity": "Medium",
+            "description": "Le port 554 (RTSP) peut exposer des flux multimédias sans authentification.",
+            "potential_impact": "Accès non autorisé aux caméras ou streams vidéo.",
+            "remediation": "Sécuriser RTSP avec TLS ou restreindre l'accès via un VPN."
+        }
+    ]
+}

@@ -1,0 +1,73 @@
+[2025-12-24 13:49:37] Starting Scan #31
+[2025-12-24 13:49:37] Command: /usr/bin/ping -c 4 'google.com'
+[2025-12-24 13:49:37] Output: /var/www/html/results/ping_2025-12-24_13-49-37_google_com.txt
+[2025-12-24 13:49:40] Finished. Return code: 0
+[2026-01-01 13:22:07] Starting Scan #33 (Port Scan)
+[2026-01-01 13:22:11] Starting AI Analysis for #33
+[2026-01-01 13:22:31] AI Analysis saved to /var/www/html/results/port_scan_2026-01-01_13-22-07_roadmap_sh_ai.json
+[2026-01-01 13:26:29] Starting Scan #34 (DNS)
+[2026-01-01 13:26:29] Starting AI Analysis for #34
+[2026-01-01 13:26:29] AI Analysis saved to /var/www/html/results/dns_2026-01-01_13-26-29_roadmap_sh_ai.json
+[2026-01-01 13:27:17] Starting Scan #35 (Headers)
+[2026-01-01 13:27:18] Starting AI Analysis for #35
+[2026-01-01 13:27:19] AI Analysis saved to /var/www/html/results/headers_2026-01-01_13-27-17_roadmap_sh_ai.json
+[2026-01-01 13:31:04] Starting Scan #36 (Headers)
+[2026-01-01 13:31:04] Starting AI Analysis for #36 (Headers)
+[2026-01-01 13:31:04] AI Report saved to /var/www/html/results/headers_2026-01-01_13-31-04_roadmap_sh_ai.json
+[2026-01-01 13:35:32] Starting Scan #37 (SSL)
+[2026-01-01 13:36:11] Starting AI Analysis for #37 (SSL)
+[2026-01-01 13:36:12] AI Report saved to /var/www/html/results/ssl_2026-01-01_13-35-31_roadmap_sh_ai.json
+[2026-01-01 13:39:15] Starting Scan #38 (Port Scan)
+[2026-01-01 13:40:01] Starting AI Analysis for #38 (Port Scan)
+[2026-01-01 13:40:12] AI Report saved to /var/www/html/results/port_scan_2026-01-01_13-39-15_iredi_lu_ai.json
+[2026-01-01 13:40:49] Starting Scan #39 (Traceroute)
+[2026-01-01 13:40:55] Starting AI Analysis for #39 (Traceroute)
+[2026-01-01 13:40:56] AI Report saved to /var/www/html/results/traceroute_2026-01-01_13-40-49_iredi_lu_ai.json
+[2026-01-01 13:43:04] Starting Scan #40 (Port Scan)
+[2026-01-01 13:43:07] Starting AI Analysis for #40 (Port Scan)
+[2026-01-01 13:43:23] AI Report saved to /var/www/html/results/port_scan_2026-01-01_13-43-04_iredi_lu_ai.json
+[2026-01-01 13:47:04] Starting Scan #41 (Port Scan)
+[2026-01-01 13:47:07] Starting AI Analysis for #41 (Port Scan)
+[2026-01-01 13:47:27] AI Report saved to /var/www/html/results/port_scan_2026-01-01_13-47-04_iredi_lu_ai.json
+[2026-01-01 13:48:56] Starting Scan #42 (Port Scan)
+[2026-01-01 13:48:58] Starting AI Analysis for #42 (Port Scan)
+[2026-01-01 13:49:18] AI Report saved to /var/www/html/results/port_scan_2026-01-01_13-48-56_iredi_lu_ai.json
+[2026-01-01 13:50:54] Starting Scan #43 (Port Scan)
+[2026-01-01 13:50:58] Starting AI Analysis for #43 (Port Scan)
+[2026-01-01 13:51:18] AI Report saved to /var/www/html/results/port_scan_2026-01-01_13-50-54_iredi_lu_ai.json
+[2026-01-01 14:05:32] Starting Scan #44 (Port Scan)
+[2026-01-01 14:05:43] Starting AI Analysis for #44 (Port Scan)
+[2026-01-01 14:06:03] AI Report saved to /var/www/html/results/port_scan_2026-01-01_14-05-32_iredi_lu_ai.json
+[2026-01-01 14:11:19] Starting Scan #45 (Port Scan)
+[2026-01-01 14:11:23] Starting AI Analysis for #45 (Port Scan)
+[2026-01-01 14:11:43] AI Report saved to /var/www/html/results/port_scan_2026-01-01_14-11-19_iredi_lu_ai.json
+[2026-01-01 14:17:08] Starting Scan #46 (Port Scan)
+[2026-01-01 14:17:12] Starting AI Analysis for #46 (Port Scan)
+[2026-01-01 14:17:22] AI Report saved to /var/www/html/results/port_scan_2026-01-01_14-17-08_iredi_lu_ai.json
+[2026-01-01 14:22:13] Starting Scan #47 (Port Scan)
+[2026-01-01 14:22:18] Starting AI Analysis for #47 (Port Scan)
+[2026-01-01 14:22:38] AI Report saved to /var/www/html/results/port_scan_2026-01-01_14-22-13_iredi_lu_ai.json
+[2026-01-01 14:29:28] Starting Scan #48 (Port Scan)
+[2026-01-01 14:29:30] Starting AI Analysis for #48 (Port Scan)
+[2026-01-01 14:30:09] AI Report saved to /var/www/html/results/port_scan_2026-01-01_14-29-28_iredi_lu_ai.json
+[2026-01-01 14:34:21] Starting Scan #49 (Port Scan)
+[2026-01-01 14:34:25] Starting AI Analysis for #49 (Port Scan)
+[2026-01-01 14:34:48] AI Report saved to /var/www/html/results/port_scan_2026-01-01_14-34-21_iredi_lu_ai.json
+[2026-01-01 14:38:55] Starting Scan #50 (Port Scan)
+[2026-01-01 14:38:58] Starting AI Analysis for #50 (Port Scan)
+[2026-01-01 14:39:46] AI Report saved to /var/www/html/results/port_scan_2026-01-01_14-38-55_iredi_lu_ai.json
+[2026-01-01 14:40:36] Starting Scan #51 (SSL)
+[2026-01-01 14:40:49] Starting AI Analysis for #51 (SSL)
+[2026-01-01 14:41:04] AI Report saved to /var/www/html/results/ssl_2026-01-01_14-40-36_iredi_lu_ai.json
+[2026-01-01 14:44:50] Starting Scan #53 (Ping)
+[2026-01-01 14:44:53] Starting AI Analysis for #53 (Ping)
+[2026-01-01 14:44:58] AI Report saved to /var/www/html/results/ping_2026-01-01_14-44-50_iredi_lu_ai.json
+[2026-01-02 14:20:35] Starting Scan #54 (Port Scan)
+[2026-01-02 14:20:48] Starting AI Analysis for #54 (Port Scan)
+[2026-01-02 14:21:32] AI Report saved to /var/www/html/results/port_scan_2026-01-02_14-20-35_iredi_lu_ai.json
+[2026-01-02 14:33:10] Starting Scan #55 (Port Scan)
+[2026-01-02 14:33:21] Starting AI Analysis for #55 (Port Scan)
+[2026-01-02 14:33:44] AI Report saved to /var/www/html/results/port_scan_2026-01-02_14-33-10_iredi_lu_ai.json
+[2026-01-02 14:36:02] Starting Scan #56 (Directory)
+[2026-01-02 14:37:15] Starting AI Analysis for #56 (Directory)
+[2026-01-02 14:37:23] AI Report saved to /var/www/html/results/directory_2026-01-02_14-36-02_iredi_lu_ai.json

@@ -1,0 +1,32 @@
+[2026-01-01 13:36:11] API ERROR: HTTP 404 -  - Response: {
+  "error": {
+    "code": 404,
+    "message": "models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.",
+    "status": "NOT_FOUND"
+  }
+}
+
+[2026-01-01 13:40:01] API ERROR: HTTP 404 -  - Response: {
+  "error": {
+    "code": 404,
+    "message": "models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.",
+    "status": "NOT_FOUND"
+  }
+}
+
+[2026-01-01 13:40:55] API ERROR: HTTP 404 -  - Response: {
+  "error": {
+    "code": 404,
+    "message": "models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.",
+    "status": "NOT_FOUND"
+  }
+}
+
+2026-01-01 13:43:23 CURL Error: Could not resolve host: generativelanguage.googleapis.com
+2026-01-01 13:47:27 CURL Error: Could not resolve host: generativelanguage.googleapis.com
+2026-01-01 13:49:08 CURL Error: Resolving timed out after 10001 milliseconds
+2026-01-01 13:51:13 CURL Error: Resolving timed out after 15001 milliseconds
+2026-01-01 14:06:03 CURL Error: Could not resolve host: integrate.api.nvidia.com
+2026-01-01 14:11:43 CURL Error: Could not resolve host: integrate.api.nvidia.com
+2026-01-01 14:17:22 CURL Error: Could not resolve host: integrate.api.nvidia.com
+2026-01-01 14:22:38 CURL Error: Failed to connect to integrate.api.nvidia.com port 443 after 20064 ms: Could not connect to server

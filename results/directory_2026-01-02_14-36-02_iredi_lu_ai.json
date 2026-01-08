@@ -1,0 +1,15 @@
+{
+    "summary": "Le scan avec dirsearch sur iredi.lu a révélé plusieurs chemins sensibles bloqués (403) et une redirection (301). Aucun accès non autorisé n'a été détecté, mais des fichiers critiques comme .env ou .bash_history ont été testés.",
+    "risk_score": 30,
+    "risk_level": "Faible",
+    "key_findings": ["Aucun accès non autorisé détecté, mais présence de chemins sensibles bloqués (403)."],
+    "threats_detected": [
+        {
+            "title": "Exposition potentielle de fichiers sensibles",
+            "severity": "Low",
+            "description": "Des chemins comme /.aws/, /.bash_history ou /.env ont été testés et bloqués (403), indiquant une configuration de sécurité basique.",
+            "potential_impact": "Si mal configuré, ces fichiers pourraient exposer des données sensibles (clés API, mots de passe).",
+            "remediation": "Vérifier les permissions des fichiers sensibles et s'assurer qu'ils ne sont pas accessibles via le web. Utiliser des règles de serveur web pour bloquer les accès non autorisés."
+        }
+    ]
+}

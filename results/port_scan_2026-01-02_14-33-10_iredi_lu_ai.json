@@ -1,0 +1,1 @@
+Erreur Python Network: HTTPSConnectionPool(host='integrate.api.nvidia.com', port=443): Max retries exceeded with url: /v1/chat/completions (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f806a3ad7f0>: Failed to establish a new connection: [Errno 113] No route to host'))

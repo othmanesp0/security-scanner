@@ -1,0 +1,9 @@
+PING iredi.lu (46.105.57.169) 56(84) bytes of data.
+64 bytes from cluster020.hosting.ovh.net (46.105.57.169): icmp_seq=1 ttl=128 time=42.9 ms
+64 bytes from cluster020.hosting.ovh.net (46.105.57.169): icmp_seq=2 ttl=128 time=40.9 ms
+64 bytes from cluster020.hosting.ovh.net (46.105.57.169): icmp_seq=3 ttl=128 time=40.6 ms
+64 bytes from cluster020.hosting.ovh.net (46.105.57.169): icmp_seq=4 ttl=128 time=41.2 ms
+
+--- iredi.lu ping statistics ---
+4 packets transmitted, 4 received, 0% packet loss, time 3008ms
+rtt min/avg/max/mdev = 40.558/41.408/42.900/0.893 ms

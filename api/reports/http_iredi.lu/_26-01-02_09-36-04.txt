@@ -1,0 +1,233 @@
+# Dirsearch started Fri Jan  2 09:37:15 2026 as: /usr/lib/python3/dist-packages/dirsearch/dirsearch.py -u http://iredi.lu -e php,html,txt -x 400,404 --format=plain
+
+301   227B   http://iredi.lu/%3f/    -> REDIRECTS TO: https://iredi.lu/?/
+403     5KB  http://iredi.lu/.aws/
+403     5KB  http://iredi.lu/.aws/credentials
+403     5KB  http://iredi.lu/.bash_history
+403     5KB  http://iredi.lu/.aws/config
+403     5KB  http://iredi.lu/.bash_profile
+403     5KB  http://iredi.lu/.bashrc
+403     5KB  http://iredi.lu/.c9/metadata/environment/.env
+403     5KB  http://iredi.lu/.docker/.env
+403     5KB  http://iredi.lu/.docker/laravel/app/.env
+403     5KB  http://iredi.lu/.env
+403     5KB  http://iredi.lu/.git/HEAD
+403     5KB  http://iredi.lu/.git/branches/
+403     5KB  http://iredi.lu/.git/config
+403     5KB  http://iredi.lu/.git/COMMIT_EDITMSG
+403     5KB  http://iredi.lu/.git/
+403     5KB  http://iredi.lu/.git/description
+403     5KB  http://iredi.lu/.git/FETCH_HEAD
+403     5KB  http://iredi.lu/.git/head
+403     5KB  http://iredi.lu/.git/hooks/
+403     5KB  http://iredi.lu/.git/hooks/applypatch-msg
+403     5KB  http://iredi.lu/.git/hooks/pre-receive
+403     5KB  http://iredi.lu/.git/hooks/prepare-commit-msg
+403     5KB  http://iredi.lu/.git/hooks/pre-push
+403     5KB  http://iredi.lu/.git/hooks/commit-msg
+403     5KB  http://iredi.lu/.git/info/exclude
+403     5KB  http://iredi.lu/.git/hooks/pre-commit
+403     5KB  http://iredi.lu/.git/hooks/pre-rebase
+403     5KB  http://iredi.lu/.git/hooks/post-update
+403     5KB  http://iredi.lu/.git/index
+403     5KB  http://iredi.lu/.git/info/
+403     5KB  http://iredi.lu/.git/logs/
+403     5KB  http://iredi.lu/.git/hooks/update
+403     5KB  http://iredi.lu/.git/info/attributes
+403     5KB  http://iredi.lu/.git/info/refs
+403     5KB  http://iredi.lu/.git/logs/refs/remotes
+403     5KB  http://iredi.lu/.git/hooks/pre-applypatch
+403     5KB  http://iredi.lu/.git/logs/refs/remotes/origin
+403     5KB  http://iredi.lu/.git/logs/head
+403     5KB  http://iredi.lu/.git/logs/refs
+403     5KB  http://iredi.lu/.git/logs/refs/heads
+403     5KB  http://iredi.lu/.git/logs/refs/remotes/origin/HEAD
+403     5KB  http://iredi.lu/.git/logs/refs/heads/master
+403     5KB  http://iredi.lu/.git/logs/HEAD
+403     5KB  http://iredi.lu/.git/objects/
+403     5KB  http://iredi.lu/.git/logs/refs/remotes/origin/master
+403     5KB  http://iredi.lu/.git/refs/heads
+403     5KB  http://iredi.lu/.git/objects/info/packs
+403     5KB  http://iredi.lu/.git/refs/heads/master
+403     5KB  http://iredi.lu/.git/refs/remotes/origin/master
+403     5KB  http://iredi.lu/.git/refs/
+403     5KB  http://iredi.lu/.git/refs/remotes/origin
+403     5KB  http://iredi.lu/.git/refs/tags
+403     5KB  http://iredi.lu/.git/packed-refs
+403     5KB  http://iredi.lu/.git/refs/remotes/origin/HEAD
+403     5KB  http://iredi.lu/.gitconfig
+403     5KB  http://iredi.lu/.git/refs/remotes
+403     5KB  http://iredi.lu/.gitlab-ci/.env
+403   199B   http://iredi.lu/.ht_wsr.txt
+403   199B   http://iredi.lu/.htaccess.bak1
+403   199B   http://iredi.lu/.htaccess.orig
+403   199B   http://iredi.lu/.htaccess.sample
+403   199B   http://iredi.lu/.htaccess.save
+403   199B   http://iredi.lu/.htaccess_extra
+403   199B   http://iredi.lu/.htaccess_orig
+403   199B   http://iredi.lu/.htaccessBAK
+403   199B   http://iredi.lu/.htaccessOLD
+403   199B   http://iredi.lu/.htaccess_sc
+403   199B   http://iredi.lu/.htaccessOLD2
+403   199B   http://iredi.lu/.html
+403   199B   http://iredi.lu/.httr-oauth
+403   199B   http://iredi.lu/.htpasswd_test
+403   199B   http://iredi.lu/.htm
+403   199B   http://iredi.lu/.htpasswds
+403     5KB  http://iredi.lu/.npmrc
+403     5KB  http://iredi.lu/.ssh/id_dsa
+403     5KB  http://iredi.lu/.ssh/google_compute_engine
+403     5KB  http://iredi.lu/.ssh/config
+403     5KB  http://iredi.lu/.ssh/google_compute_engine.pub
+403     5KB  http://iredi.lu/.ssh/id_rsa.priv~
+403     5KB  http://iredi.lu/.ssh/id_dsa.pub
+403     5KB  http://iredi.lu/.ssh/id_rsa.pub~
+403     5KB  http://iredi.lu/.ssh/id_rsa
+403     5KB  http://iredi.lu/.ssh/
+403     5KB  http://iredi.lu/.ssh/ansible_rsa
+403     5KB  http://iredi.lu/.ssh/id_rsa.key~
+403     5KB  http://iredi.lu/.ssh/authorized_keys
+403     5KB  http://iredi.lu/.ssh/id_rsa.pub
+403     5KB  http://iredi.lu/.ssh/id_rsa.priv
+403     5KB  http://iredi.lu/.ssh/id_rsa.key
+403     5KB  http://iredi.lu/.ssh/identity.pub
+403     5KB  http://iredi.lu/.ssh/id_rsa~
+403     5KB  http://iredi.lu/.ssh/identity
+403     5KB  http://iredi.lu/.ssh/known_host
+403     5KB  http://iredi.lu/.ssh/known_hosts
+403     5KB  http://iredi.lu/.ssh/know_hosts~
+403     5KB  http://iredi.lu/.ssh/know_hosts
+403     5KB  http://iredi.lu/.travis.yml
+403     5KB  http://iredi.lu/.vscode/.env
+403     5KB  http://iredi.lu/.zshrc
+403     5KB  http://iredi.lu/.zsh_history
+403     5KB  http://iredi.lu/analytics/saw.dll?getPreviewImage&previewFilePath=/etc/passwd
+301   248B   http://iredi.lu/axis2-web//HappyAxis.jsp    -> REDIRECTS TO: https://iredi.lu/axis2-web/HappyAxis.jsp
+301   254B   http://iredi.lu/axis2//axis2-web/HappyAxis.jsp    -> REDIRECTS TO: https://iredi.lu/axis2/axis2-web/HappyAxis.jsp
+301   243B   http://iredi.lu/axis//happyaxis.jsp    -> REDIRECTS TO: https://iredi.lu/axis/happyaxis.jsp
+403     5KB  http://iredi.lu/blog/wp-login.php
+301   276B   http://iredi.lu/Citrix//AccessPlatform/auth/clientscripts/cookies.js    -> REDIRECTS TO: https://iredi.lu/Citrix/AccessPlatform/auth/clientscripts/cookies.js
+301   249B   http://iredi.lu/conf/catalina.policy    -> REDIRECTS TO: https://iredi.lu/conf.php/catalina.policy
+301   234B   http://iredi.lu/conf/    -> REDIRECTS TO: https://iredi.lu/conf.php/
+301   242B   http://iredi.lu/conf/Catalina    -> REDIRECTS TO: https://iredi.lu/conf.php/Catalina
+301   250B   http://iredi.lu/conf/tomcat-users.xml    -> REDIRECTS TO: https://iredi.lu/conf.php/tomcat-users.xml
+301   246B   http://iredi.lu/conf/tomcat8.conf    -> REDIRECTS TO: https://iredi.lu/conf.php/tomcat8.conf
+301   253B   http://iredi.lu/conf/catalina.properties    -> REDIRECTS TO: https://iredi.lu/conf.php/catalina.properties
+301   244B   http://iredi.lu/conf/server.xml    -> REDIRECTS TO: https://iredi.lu/conf.php/server.xml
+301   245B   http://iredi.lu/conf/context.xml    -> REDIRECTS TO: https://iredi.lu/conf.php/context.xml
+301   241B   http://iredi.lu/conf/web.xml    -> REDIRECTS TO: https://iredi.lu/conf.php/web.xml
+301   252B   http://iredi.lu/conf/logging.properties    -> REDIRECTS TO: https://iredi.lu/conf.php/logging.properties
+301   233B   http://iredi.lu/conf    -> REDIRECTS TO: https://iredi.lu/conf.php
+301   236B   http://iredi.lu/connect    -> REDIRECTS TO: https://iredi.lu/connect.php
+301   236B   http://iredi.lu/contact    -> REDIRECTS TO: https://iredi.lu/contact.php
+301   231B   http://iredi.lu/cp    -> REDIRECTS TO: https://iredi.lu/cp.php
+301   232B   http://iredi.lu/cp/    -> REDIRECTS TO: https://iredi.lu/cp.php/
+301   277B   http://iredi.lu/cp/Shares?user=&protocol=webaccess&v=2.3    -> REDIRECTS TO: https://iredi.lu/cp.php/Shares?user=&protocol=webaccess&v=2.3
+301   266B   http://iredi.lu/engine/classes/swfupload//swfupload_f9.swf    -> REDIRECTS TO: https://iredi.lu/engine/classes/swfupload/swfupload_f9.swf
+301   263B   http://iredi.lu/engine/classes/swfupload//swfupload.swf    -> REDIRECTS TO: https://iredi.lu/engine/classes/swfupload/swfupload.swf
+403     5KB  http://iredi.lu/etc/hosts
+403     5KB  http://iredi.lu/etc/passwd
+301   235B   http://iredi.lu/events    -> REDIRECTS TO: https://iredi.lu/events.php
+301   251B   http://iredi.lu/extjs/resources//charts.swf    -> REDIRECTS TO: https://iredi.lu/extjs/resources/charts.swf
+301   234B   http://iredi.lu/file/    -> REDIRECTS TO: https://iredi.lu/file.php/
+301   233B   http://iredi.lu/file    -> REDIRECTS TO: https://iredi.lu/file.php
+301   235B   http://iredi.lu/footer    -> REDIRECTS TO: https://iredi.lu/footer.php
+301   238B   http://iredi.lu/functions    -> REDIRECTS TO: https://iredi.lu/functions.php
+301   239B   http://iredi.lu/functions/    -> REDIRECTS TO: https://iredi.lu/functions.php/
+301   236B   http://iredi.lu/gallery    -> REDIRECTS TO: https://iredi.lu/gallery.php
+301   239B   http://iredi.lu/gallery/zp    -> REDIRECTS TO: https://iredi.lu/gallery.php/zp
+301   235B   http://iredi.lu/header    -> REDIRECTS TO: https://iredi.lu/header.php
+301   261B   http://iredi.lu/html/js/misc/swfupload//swfupload.swf    -> REDIRECTS TO: https://iredi.lu/html/js/misc/swfupload/swfupload.swf
+301   234B   http://iredi.lu/index    -> REDIRECTS TO: https://iredi.lu/index.php
+403     5KB  http://iredi.lu/lib/phpunit/phpunit/src/Util/PHP/eval-stdin.php
+403     5KB  http://iredi.lu/lib/phpunit/src/Util/PHP/eval-stdin.php
+403     5KB  http://iredi.lu/mailer/.env
+301   234B   http://iredi.lu/mail/    -> REDIRECTS TO: https://iredi.lu/mail.php/
+301   233B   http://iredi.lu/mail    -> REDIRECTS TO: https://iredi.lu/mail.php
+301   254B   http://iredi.lu/Mail/smtp/Admin/smadv.asp    -> REDIRECTS TO: https://iredi.lu/Mail/smtp.php/Admin/smadv.asp
+301   234B   http://iredi.lu/mock/    -> REDIRECTS TO: https://iredi.lu/mock.php/
+301   233B   http://iredi.lu/null    -> REDIRECTS TO: https://iredi.lu/null.php
+301   234B   http://iredi.lu/order    -> REDIRECTS TO: https://iredi.lu/order.php
+403     5KB  http://iredi.lu/phpunit/phpunit/src/Util/PHP/eval-stdin.php
+403     5KB  http://iredi.lu/phpunit/src/Util/PHP/eval-stdin.php
+301   237B   http://iredi.lu/products    -> REDIRECTS TO: https://iredi.lu/products.php
+301   237B   http://iredi.lu/projects    -> REDIRECTS TO: https://iredi.lu/projects.php
+301   237B   http://iredi.lu/sendmail    -> REDIRECTS TO: https://iredi.lu/sendmail.php
+403   199B   http://iredi.lu/server-status/
+403   199B   http://iredi.lu/server-status
+301   234B   http://iredi.lu/shell    -> REDIRECTS TO: https://iredi.lu/shell.php
+301   233B   http://iredi.lu/shop    -> REDIRECTS TO: https://iredi.lu/shop.php
+301   235B   http://iredi.lu/shell/    -> REDIRECTS TO: https://iredi.lu/shell.php/
+403     5KB  http://iredi.lu/text-base/etc/passwd
+403     5KB  http://iredi.lu/twitter/.env
+403     5KB  http://iredi.lu/vendor/phpunit/src/Util/PHP/eval-stdin.php
+403     5KB  http://iredi.lu/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
+403     5KB  http://iredi.lu/wavemaker/studioService.download?method=getContent&inUrl=file///etc/passwd
+403     5KB  http://iredi.lu/wordpress/wp-login.php
+403     5KB  http://iredi.lu/wp-admin/install.php
+403     5KB  http://iredi.lu/wp-admin/
+403     5KB  http://iredi.lu/wp-admin/admin-ajax.php
+403     5KB  http://iredi.lu/wp-admin/setup-config.php
+403     5KB  http://iredi.lu/wp-includes/
+403     5KB  http://iredi.lu/wp-includes/rss-functions.php
+403     5KB  http://iredi.lu/wp-login.php
+403     5KB  http://iredi.lu/wp.php
+403     5KB  http://iredi.lu/wp/wp-login.php
+403     5KB  http://iredi.lu/xmlrpc.php
+301   229B   http://iredi.lu/~adm    -> REDIRECTS TO: http://iredi.lu/~adm/
+301   231B   http://iredi.lu/~admin    -> REDIRECTS TO: http://iredi.lu/~admin/
+301   229B   http://iredi.lu/~bin    -> REDIRECTS TO: http://iredi.lu/~bin/
+301   239B   http://iredi.lu/~administrator    -> REDIRECTS TO: http://iredi.lu/~administrator/
+301   232B   http://iredi.lu/~backup    -> REDIRECTS TO: http://iredi.lu/~backup/
+301   232B   http://iredi.lu/~apache    -> REDIRECTS TO: http://iredi.lu/~apache/
+301   235B   http://iredi.lu/~anonymous    -> REDIRECTS TO: http://iredi.lu/~anonymous/
+301   233B   http://iredi.lu/~fwadmin    -> REDIRECTS TO: http://iredi.lu/~fwadmin/
+301   230B   http://iredi.lu/~http    -> REDIRECTS TO: http://iredi.lu/~http/
+301   232B   http://iredi.lu/~daemon    -> REDIRECTS TO: http://iredi.lu/~daemon/
+301   234B   http://iredi.lu/~database    -> REDIRECTS TO: http://iredi.lu/~database/
+301   230B   http://iredi.lu/~halt    -> REDIRECTS TO: http://iredi.lu/~halt/
+301   234B   http://iredi.lu/~firewall    -> REDIRECTS TO: http://iredi.lu/~firewall/
+301   228B   http://iredi.lu/~fw    -> REDIRECTS TO: http://iredi.lu/~fw/
+301   234B   http://iredi.lu/~helpdesk    -> REDIRECTS TO: http://iredi.lu/~helpdesk/
+301   232B   http://iredi.lu/~fwuser    -> REDIRECTS TO: http://iredi.lu/~fwuser/
+301   232B   http://iredi.lu/~gopher    -> REDIRECTS TO: http://iredi.lu/~gopher/
+301   231B   http://iredi.lu/~guest    -> REDIRECTS TO: http://iredi.lu/~guest/
+301   230B   http://iredi.lu/~help    -> REDIRECTS TO: http://iredi.lu/~help/
+301   229B   http://iredi.lu/~gdm    -> REDIRECTS TO: http://iredi.lu/~gdm/
+301   229B   http://iredi.lu/~ftp    -> REDIRECTS TO: http://iredi.lu/~ftp/
+301   230B   http://iredi.lu/~data    -> REDIRECTS TO: http://iredi.lu/~data/
+301   228B   http://iredi.lu/~db    -> REDIRECTS TO: http://iredi.lu/~db/
+301   231B   http://iredi.lu/~games    -> REDIRECTS TO: http://iredi.lu/~games/
+301   231B   http://iredi.lu/~ident    -> REDIRECTS TO: http://iredi.lu/~ident/
+301   230B   http://iredi.lu/~news    -> REDIRECTS TO: http://iredi.lu/~news/
+301   228B   http://iredi.lu/~lp    -> REDIRECTS TO: http://iredi.lu/~lp/
+301   230B   http://iredi.lu/~nscd    -> REDIRECTS TO: http://iredi.lu/~nscd/
+301   230B   http://iredi.lu/~mail    -> REDIRECTS TO: http://iredi.lu/~mail/
+301   232B   http://iredi.lu/~nobody    -> REDIRECTS TO: http://iredi.lu/~nobody/
+301   234B   http://iredi.lu/~mailnull    -> REDIRECTS TO: http://iredi.lu/~mailnull/
+301   233B   http://iredi.lu/~rpcuser    -> REDIRECTS TO: http://iredi.lu/~rpcuser/
+301   235B   http://iredi.lu/~reception    -> REDIRECTS TO: http://iredi.lu/~reception/
+301   232B   http://iredi.lu/~office    -> REDIRECTS TO: http://iredi.lu/~office/
+301   234B   http://iredi.lu/~operator    -> REDIRECTS TO: http://iredi.lu/~operator/
+301   231B   http://iredi.lu/~staff    -> REDIRECTS TO: http://iredi.lu/~staff/
+301   230B   http://iredi.lu/~root    -> REDIRECTS TO: http://iredi.lu/~root/
+301   229B   http://iredi.lu/~sql    -> REDIRECTS TO: http://iredi.lu/~sql/
+301   234B   http://iredi.lu/~shutdown    -> REDIRECTS TO: http://iredi.lu/~shutdown/
+301   230B   http://iredi.lu/~sync    -> REDIRECTS TO: http://iredi.lu/~sync/
+301   236B   http://iredi.lu/~postmaster    -> REDIRECTS TO: http://iredi.lu/~postmaster/
+301   229B   http://iredi.lu/~pop    -> REDIRECTS TO: http://iredi.lu/~pop/
+301   231B   http://iredi.lu/~user4    -> REDIRECTS TO: http://iredi.lu/~user4/
+301   229B   http://iredi.lu/~web    -> REDIRECTS TO: http://iredi.lu/~web/
+301   229B   http://iredi.lu/~rpc    -> REDIRECTS TO: http://iredi.lu/~rpc/
+301   231B   http://iredi.lu/~user2    -> REDIRECTS TO: http://iredi.lu/~user2/
+301   230B   http://iredi.lu/~uucp    -> REDIRECTS TO: http://iredi.lu/~uucp/
+301   230B   http://iredi.lu/~user    -> REDIRECTS TO: http://iredi.lu/~user/
+301   230B   http://iredi.lu/~toor    -> REDIRECTS TO: http://iredi.lu/~toor/
+301   229B   http://iredi.lu/~www    -> REDIRECTS TO: http://iredi.lu/~www/
+301   229B   http://iredi.lu/~xfs    -> REDIRECTS TO: http://iredi.lu/~xfs/
+301   232B   http://iredi.lu/~system    -> REDIRECTS TO: http://iredi.lu/~system/
+301   231B   http://iredi.lu/~user1    -> REDIRECTS TO: http://iredi.lu/~user1/
+301   230B   http://iredi.lu/~test    -> REDIRECTS TO: http://iredi.lu/~test/
+301   231B   http://iredi.lu/~user3    -> REDIRECTS TO: http://iredi.lu/~user3/
+301   231B   http://iredi.lu/~user5    -> REDIRECTS TO: http://iredi.lu/~user5/
+301   234B   http://iredi.lu/~testuser    -> REDIRECTS TO: http://iredi.lu/~testuser/

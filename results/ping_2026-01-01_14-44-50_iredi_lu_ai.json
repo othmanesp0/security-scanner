@@ -1,0 +1,19 @@
+{
+    "summary": "Le rapport Ping montre une connexion stable vers iredi.lu hébergé par OVH, avec un temps de réponse moyen de 41,4 ms et aucun paquet perdu. Le TTL constant (128) suggère un système Windows ou un routeur configuré.",
+    "risk_score": 50,
+    "risk_level": "Moyen",
+    "key_findings": [
+        "Aucune perte de paquets (0%), indiquant une bonne connectivité.",
+        "TTL de 128 typique d'un système Windows ou d'un équipement réseau spécifique.",
+        "Temps de réponse stable (écart-type de 0,893 ms)."
+    ],
+    "threats_detected": [
+        {
+            "title": "Exposition potentielle du TTL",
+            "severity": "Low",
+            "description": "Un TTL de 128 peut révéler des informations sur le système d'exploitation ou l'infrastructure réseau.",
+            "potential_impact": "Fuite d'informations mineures pour un attaquant lors de la reconnaissance.",
+            "remediation": "Configurer les équipements réseau pour masquer ou randomiser le TTL si nécessaire."
+        }
+    ]
+}
