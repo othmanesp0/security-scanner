@@ -3,7 +3,7 @@ import json
 import requests
 
 # Configuration
-API_KEY = "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"
+API_KEY = "nvidia-api-key"
 URL = "https://integrate.api.nvidia.com/v1/chat/completions"
 
 def analyze():
