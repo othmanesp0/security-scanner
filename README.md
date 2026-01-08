@@ -3,7 +3,7 @@
 An educational web-based security scanning tool dashboard built with PHP, MySQL, and JavaScript.
 
 ## ⚠️ IMPORTANT DISCLAIMER
-
+** ADD NVIDIA API KEY IN ai_bridge.py **
 **THIS TOOL IS FOR EDUCATIONAL PURPOSES ONLY**
 
 - Only use on systems you own or have explicit written permission to test
